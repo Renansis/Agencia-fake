@@ -1,0 +1,23 @@
+@media screen and (max-width:1005px){
+    .logo{
+        position: relative;
+        text-align: center;
+    }
+    
+    nav ul{
+        display: none;
+    }
+    header{
+        flex: 100%;
+        text-align: center;
+    }
+    header img{
+        flex: 100%;
+        text-align: center;
+    }
+    .card{
+        width: 100%;
+    }
+    
+}
+
